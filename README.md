@@ -1,0 +1,1 @@
+# Mini-Project-26-Resize-a-Colored-Video-to-50-Smaller-using-OpenCV
